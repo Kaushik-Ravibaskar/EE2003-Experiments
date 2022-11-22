@@ -12,7 +12,7 @@ The experiment involves multiplying two 8-bit signed integers using sequential m
 
 * Expt 2: Floating point addition (32-bit version)
 
-The goal of the experiment was to implement a floating point adder in Verilog to take 2, 32-b values as input, interpret them as IEEE-754 floating point values, and add them. All the excpetional cases were handled using some conventions which is mentioned in the code.
+The goal of the experiment was to implement a floating point adder in Verilog to take 2, 32-b values as input, interpret them as IEEE-754 floating point values, and add them. All the exceptional cases were handled using some conventions which is mentioned in the code.
 
 * Expt 3: Single Cycle Implementation using RISC-V architechture (32-bit version)
 
